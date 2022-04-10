@@ -1,0 +1,10 @@
+
+.weather{
+    display: flex;
+}
+
+.space{
+    padding: 10px;
+    border: 1px solid #eeeeee;
+    margin: 10px;
+}
